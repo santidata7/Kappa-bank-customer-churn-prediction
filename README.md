@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="kappa_abandono-bancario" src="https://github.com/user-attachments/assets/a9d3a9ad-4dcd-4aa8-a16e-3b78ce826c25" />
 # Κ Proyecto Kappa | Predicción de Abandono de Clientes en Beta Bank
 
 ## Descripción
